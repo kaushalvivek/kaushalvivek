@@ -9,4 +9,4 @@ I imagine and create things that makes lives easier.
 - 📫 Twitter: [@vi_kaushal](https://twitter.com/vi_kaushal)
 - 😄 Pronouns: He/Him
 
-Checkout my portfolio at [vivekkaushal.com](https://vivekkaushal.com) :smile:
+Checkout my portfolio at [vivekkaushal.com](https://vivekkaushal.com)
