@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I am software engineer.  
+I am a software engineer.  
 I imagine and create things that makes lives easier.
 
 - 🔭 I’m currently working on building the backend for [Skillbee](https://skillbee.com/).
