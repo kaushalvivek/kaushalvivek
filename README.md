@@ -4,8 +4,7 @@ I am a software engineer.
 I imagine and create things that makes lives easier.
 
 - 🔭 I’m currently working on building the backend for [Skillbee](https://skillbee.com/).
-- 🌱 I’m currently learning NestJS, Rust and chrome-extension development.
-- 👯 I’m looking to collaborate on a few ideas that I'm toying around with. Ping!
+- 🌱 I am also working on creating a [newsletter management system](https://github.com/kaushalvivek/newsletter-system), contributions welcome!
 - 📫 Twitter: [@vi_kaushal](https://twitter.com/vi_kaushal)
 - 😄 Pronouns: He/Him
 
