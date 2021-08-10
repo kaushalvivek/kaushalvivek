@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I am a software engineer.  
+I am an engineer.  
 I imagine and create things that make lives easier.
 
 - 🔭 I’m currently working at Samsung R&D as a Senior Engineer.
