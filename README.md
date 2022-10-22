@@ -1,7 +1,7 @@
 ### Hello! 👋
 
-I am an engineer.
-I design reliable, scalable adn maintainable systems.
+I am an engineer. 
+I design reliable, scalable and maintainable systems.
 
 - 🔭 I’m currently building [Enterpret](https://enterpret.com).
 - 📜 Previously, I've built the backend for [Skillbee](https://skillbee.com), optimised the distributor side platform for Samsung Ads, and built the AI Platform for [couture.ai](https://couture.ai)
